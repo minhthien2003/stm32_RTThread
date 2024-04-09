@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "appinterface.h": "c",
+        "main.h": "c"
+    }
+}
